@@ -41,5 +41,6 @@ Performed using Pandas library in Python:
 ## 🙋‍♀️ Author
 
 Sachin S  
-Connect with me on [LinkedIn](https://www.linkedin.com)
++91 7845774436
+sachisun1005@gmail.com
 

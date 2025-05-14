@@ -1,0 +1,23 @@
+Match_Number,Date,Team_1,Team_2, Venue,Stage, First Inngs Score, Second Inngs Score, Winner,Won by,Player of the match
+1,"Sat, 04 Mar",Gujarat Giants,Mumbai Indians ,DY Patil,Group,207/5,64/10,Mumbai Indians,143 runs,Harmanpreet Kaur
+2,"Sun, 05 Mar",Delhi Capitals,Royal Challengers Bangalore,Brabourne,Group,223/2,163/8,Delhi Capitals,60 runs,Tara Norris
+3,"Sun, 05 Mar",Gujarat Giants,UP Warriorz,DY Patil,Group,169/6,175/7,UP Warriorz,3 wickets,Grace Harris
+4,"Mon, 06 Mar",Royal Challengers Bangalore ,Mumbai Indians ,Brabourne,Group,155/10,159/1,Mumbai Indians,9 wickets,Hayley Matthews
+5,"Tue, 07 Mar",Delhi Capitals,UP Warriorz,DY Patil,Group,211/4,169/5,Delhi Capitals,42 runs,Jess Jonassen
+6,"Wed, 08 Mar",Gujarat Giants,Royal Challengers Bangalore,Brabourne,Group,201/7,190/7,Gujarat Giants,11 runs,Sophia Dunkley
+7,"Thu, 09 Mar",Delhi Capitals,Mumbai Indians ,DY Patil,Group,105/10,109/2,Mumbai Indians,8 wickets,Saika Ishaque
+8,"Fri, 10 Mar",Royal Challengers Bangalore ,UP Warriorz,Brabourne,Group,138/10,139/0,UP Warriorz,10 wickets,Alyssa Healy
+9,"Sat, 11 Mar",Gujarat Giants,Delhi Capitals,DY Patil,Group,105/9,107/0,Delhi Capitals,10 wickets,Marizanne Kapp
+10,"Sun, 12 Mar",Mumbai Indians,UP Warriorz,Brabourne,Group,159/6,164/2,Mumbai Indians,8 wickets,Harmanpreet Kaur
+11,"Mon, 13 Mar",Delhi Capitals,Royal Challengers Bangalore,DY Patil,Group,150/4,154/4,Delhi Capitals,6 wickets,Jess Jonassen
+12,"Tue, 14 Mar",Mumbai Indians,Gujarat Giants,Brabourne,Group,162/8,107/9,Mumbai Indians,55 runs,Harmanpreet Kaur
+13,"Wed, 15 Mar",UP Warriorz,Royal Challengers Bangalore,DY Patil,Group,135/10,136/5,Royal Challengers Bangalore,5 wickets,Kanika Ahuja
+14,"Thu, 16 Mar",Gujarat Giants,Delhi Capitals,Brabourne,Group,147/4,136/10,Gujarat Giants,11 runs,Ashleigh Gardner
+15,"Sat, 18 Mar",Mumbai Indians,UP Warriorz,DY Patil,Group,127/10,129/5,UP Warriorz,5 wickets,Deepti Sharma
+16,"Sat, 18 Mar",Gujarat Giants,Royal Challengers Bangalore,Brabourne,Group,188/4,189/2,Royal Challengers Bangalore,8 wickets,Sophie Devine
+17,"Mon, 20 Mar",Gujarat Giants,UP Warriorz,Brabourne,Group,178/6,181/7,UP Warriorz,3 wickets,Grace Harris
+18,"Mon, 20 Mar",Mumbai Indians,Delhi Capitals,DY Patil,Group,109/8,110/1,Delhi Capitals,9 wickets,Marizanne Kapp
+19,"Tue, 21 Mar",Royal Challengers Bangalore ,Mumbai Indians ,DY Patil,Group,125/9,129/6,Mumbai Indians,4 wickets,Amelia Kerr
+20,"Tue, 21 Mar",UP Warriorz,Delhi Capitals,Brabourne,Group,138/6,142/5,Delhi Capitals,5 wickets,Alice Capsey
+21,"Fri, 24 Mar",Mumbai Indians,UP Warriorz,DY Patil,Play-off,182/4,110/10,Mumbai Indians,72 runs,Nat Sciver-Brunt
+22,"Sun, 26 Mar",Delhi Capitals,Mumbai Indians ,Brabourne,Final,,,,,

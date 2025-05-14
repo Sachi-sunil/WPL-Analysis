@@ -30,28 +30,15 @@ Performed using Pandas library in Python:
 ### Page 2 – Team Analysis:
 ![Team Analysis](images/team_analysis.png)
 
-## 📁 Files Included
-- `WPLDashboard.pbix`: Power BI file
-- `cleaned_data.csv`: Cleaned dataset used in Power BI
-- `README.md`: Project overview
 
 ## 📌 Tools Used
 - Power BI
 - Power Query
+- Python pandas, Skilearn, Matplotlib
 - GitHub
-
----
-
-## 🚀 How to View the Dashboard
-If you want to view the report:
-1. Download the `.pbix` file
-2. Open in Power BI Desktop
-3. Explore the interactive visuals!
-
----
 
 ## 🙋‍♀️ Author
 
-[Your Name]  
+Sachin S  
 Connect with me on [LinkedIn](https://www.linkedin.com)
 

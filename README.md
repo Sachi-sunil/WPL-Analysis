@@ -7,7 +7,7 @@ This project presents a data analysis and visualization of the Women’s Premier
 The dashboard includes:
 - 🔝 Highest Wicket Takers
 - 🚨 Most Wides by a Bowler
-- 📌 Extras Given by Teams
+- 📌 Extras Given by Teams!
 - 🎯 Favorite Dismissal Types per Bowler
 - 🧠 Distribution of Dismissal Types
 - 🏟️ Venue vs Dismissal Types Analysis
@@ -25,10 +25,11 @@ Performed using Pandas library in Python:
 ## 📷 Dashboard Screenshots
 
 ### Bowlers Dashboard:
-![Main Dashboard](images/main_dashboard.png)
+[Screenshot 2025-05-13 213745](https://github.com/user-attachments/assets/5c1f1012-b919-43d1-9c08-d38d825de024)
 
-### Page 2 – Team Analysis:
-![Team Analysis](images/team_analysis.png)
+
+### Page 2 – Batters Analysis:
+![Screenshot 2025-05-13 213729](https://github.com/user-attachments/assets/d0f0a64b-61e9-47a0-b35e-d9188891fffa)
 
 
 ## 📌 Tools Used

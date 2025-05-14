@@ -25,7 +25,7 @@ Performed using Pandas library in Python:
 ## 📷 Dashboard Screenshots
 
 ### Bowlers Dashboard:
-[Screenshot 2025-05-13 213745](https://github.com/user-attachments/assets/5c1f1012-b919-43d1-9c08-d38d825de024)
+![Screenshot 2025-05-13 213745](https://github.com/user-attachments/assets/5c1f1012-b919-43d1-9c08-d38d825de024)
 
 
 ### Page 2 – Batters Analysis:
